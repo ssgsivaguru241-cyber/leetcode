@@ -11,17 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
