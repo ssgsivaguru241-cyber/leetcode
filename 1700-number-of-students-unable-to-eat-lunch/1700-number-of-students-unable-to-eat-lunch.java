@@ -12,7 +12,7 @@ class Solution {
         }
         int count = 0;
        while(!q.isEmpty()){
-        if(st.peek().equals(q.peek())){
+        if(st.peek() == q.peek()){
         st.pop();
         q.poll();
         count = 0;
