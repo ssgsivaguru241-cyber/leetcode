@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1544-make-the-string-great) |
 ## Array
@@ -54,5 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
