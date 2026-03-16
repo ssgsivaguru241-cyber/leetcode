@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [1544-make-the-string-great](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1544-make-the-string-great) |
 | [3136-valid-word](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3136-valid-word) |
 ## Stack
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
