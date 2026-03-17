@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
@@ -115,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
