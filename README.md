@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0052-n-queens-ii) |
 ## Linked List
