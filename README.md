@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0052-n-queens-ii) |
 ## Linked List
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
