@@ -24,7 +24,7 @@ class Solution {
         InOrder(root.right);
     }
     public int kthSmallest(TreeNode root, int k) {
-       list.clear();
+    //    list.clear();
        InOrder(root);
        return list.get(k-1);
     }
