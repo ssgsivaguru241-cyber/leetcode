@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -149,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
