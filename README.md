@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0841-keys-and-rooms) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0994-rotting-oranges) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0841-keys-and-rooms) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Topological Sort
@@ -210,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
