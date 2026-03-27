@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1017-convert-to-base-2) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0994-rotting-oranges) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sorting
 |  |
 | ------- |
