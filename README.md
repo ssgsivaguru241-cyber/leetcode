@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1143-longest-common-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1544-make-the-string-great) |
 | [3136-valid-word](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3136-valid-word) |
 ## Stack
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
