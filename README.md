@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
+| [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
+| [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
 | ------- |
