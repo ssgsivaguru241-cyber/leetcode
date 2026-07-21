@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1017-convert-to-base-2](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1017-convert-to-base-2) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
