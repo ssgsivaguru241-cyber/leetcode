@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0260-single-number-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
