@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0207-course-schedule) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0210-course-schedule-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
