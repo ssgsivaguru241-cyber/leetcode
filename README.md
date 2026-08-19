@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0994-rotting-oranges) |
+| [1470-shuffle-the-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
