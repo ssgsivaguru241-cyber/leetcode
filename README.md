@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
+| [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
