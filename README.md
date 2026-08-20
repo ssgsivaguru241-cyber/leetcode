@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
