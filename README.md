@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0040-combination-sum-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
