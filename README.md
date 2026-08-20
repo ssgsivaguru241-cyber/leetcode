@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0733-flood-fill) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1017-convert-to-base-2](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1017-convert-to-base-2) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
