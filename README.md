@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Primality Test
 |  |
 | ------- |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
