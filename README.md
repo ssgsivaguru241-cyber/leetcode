@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0704-binary-search) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Divide and Conquer
 |  |
