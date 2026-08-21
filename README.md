@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0933-number-of-recent-calls) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
