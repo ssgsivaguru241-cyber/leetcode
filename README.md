@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1929-concatenation-of-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
