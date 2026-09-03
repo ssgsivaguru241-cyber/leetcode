@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1143-longest-common-subsequence) |
