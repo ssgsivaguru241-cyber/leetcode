@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1544-make-the-string-great) |
+| [2129-capitalize-the-title](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3136-valid-word](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3136-valid-word) |
