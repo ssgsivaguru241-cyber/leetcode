@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3903-smallest-stable-index-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
