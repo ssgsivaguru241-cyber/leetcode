@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3903-smallest-stable-index-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3978-unique-middle-element](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3978-unique-middle-element](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |
