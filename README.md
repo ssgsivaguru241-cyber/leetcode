@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1017-convert-to-base-2](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1017-convert-to-base-2) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0476-number-complement) |
 ## Prefix Sum
 |  |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
