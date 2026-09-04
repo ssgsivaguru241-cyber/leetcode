@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0137-single-number-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0322-coin-change) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
