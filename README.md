@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3903-smallest-stable-index-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
