@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1017-convert-to-base-2](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1017-convert-to-base-2) |
@@ -401,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
