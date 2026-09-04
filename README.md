@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
