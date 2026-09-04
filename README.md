@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0204-count-primes) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
