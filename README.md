@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -376,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
