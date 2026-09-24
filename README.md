@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3136-valid-word](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3136-valid-word) |
+| [3794-reverse-string-prefix](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/0844-backspace-string-compare) |
+| [3794-reverse-string-prefix](https://github.com/ssgsivaguru241-cyber/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
